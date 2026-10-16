@@ -1,0 +1,52 @@
+<resources>
+<!-- Nombre de la aplicación -->
+<string name="app_name">Calc2</string>
+<!-- Título -->
+<string name="titulo_calculadora">Calculadora</string>
+<!-- Números -->
+<string name="numero_0">0</string>
+<string name="numero_1">1</string>
+<string name="numero_2">2</string>
+<string name="numero_3">3</string>
+<string name="numero_4">4</string>
+<string name="numero_5">5</string>
+<string name="numero_6">6</string>
+<string name="numero_7">7</string>
+<string name="numero_8">8</string>
+<string name="numero_9">9</string>
+
+<!-- Operaciones matemáticas -->
+<string name="operacion_sumar">+</string>
+<string name="operacion_restar">−</string>
+<string name="operacion_multiplicar">×</string>
+<string name="operacion_dividir">÷</string>
+<string name="operacion_igual">=</string>
+
+<!-- Funciones adicionales -->
+<string name="operacion_borrar">C</string>
+<string name="operacion_borrar_uno">⌫</string>
+<string name="operacion_decimal">.</string>
+<string name="operacion_porcentaje">%</string>
+<string name="operacion_cambiar_signo">±</string>
+
+<!-- Pantalla -->
+<string name="resultado_inicial">0</string>
+<string name="descripcion_resultado">Resultado de la operación</string>
+
+<!-- Accesibilidad -->
+<string name="accesibilidad_numero_0">Número cero</string>
+<string name="accesibilidad_numero_1">Número uno</string>
+<string name="accesibilidad_numero_2">Número dos</string>
+<string name="accesibilidad_numero_3">Número tres</string>
+<string name="accesibilidad_numero_4">Número cuatro</string>
+<string name="accesibilidad_numero_5">Número cinco</string>
+<string name="accesibilidad_numero_6">Número seis</string>
+<string name="accesibilidad_numero_7">Número siete</string>
+<string name="accesibilidad_numero_8">Número ocho</string>
+<string name="accesibilidad_numero_9">Número nueve</string>
+<string name="accesibilidad_sumar">Sumar</string>
+<string name="accesibilidad_restar">Restar</string>
+<string name="accesibilidad_multiplicar">Multiplicar</string>
+<string name="accesibilidad_dividir">Dividir</string>
+<string name="accesibilidad_igual">Calcular resultado</string>
+<string name="accesibilidad_borrar">Borrar todo</string> </resources>

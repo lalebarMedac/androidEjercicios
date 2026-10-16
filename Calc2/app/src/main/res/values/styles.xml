@@ -1,3 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
+
+    <!-- Números -->
+    <style name="BotonNumero">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:backgroundTint">#343A40</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:minHeight">64dp</item>
+        <item name="android:minWidth">64dp</item>
+    </style>
+
+    <!-- Operaciones -->
+    <style name="BotonOperaciones">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:backgroundTint">#C17C5B</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:minHeight">64dp</item>
+        <item name="android:minWidth">64dp</item>
+    </style>
+
+    <!-- Borrar -->
+    <style name="BotonBorrar" parent="BotonOperaciones">
+        <item name="android:backgroundTint">#A95450</item>
+    </style>
+
+    <!-- Igual -->
+    <style name="BotonIgual" parent="BotonOperaciones">
+        <item name="android:backgroundTint">#628B76</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Funciones secundarias -->
+    <style name="BotonSecundario" parent="BotonNumero">
+        <item name="android:backgroundTint">#626C74</item>
+    </style>
+
 </resources>

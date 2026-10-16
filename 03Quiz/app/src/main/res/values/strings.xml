@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03.Quiz</string>
+    <string name="btn_siguiente">Comprobar / Siguiente</string>
+    <string name="puntuacion_inicial">Puntuación: 0</string>
+</resources>
